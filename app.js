@@ -294,9 +294,34 @@
 
 // Q no 04 
 
+// var date = new Date().getDay()
+//  ;
+// if(date == 0 || 6){
+
+// alert('Its Funday')
+// }
 
 // Q no 05 
 
+// var date = new Date().getDate();
+
+// if(date <= 15 ){
+//     alert('First Fifteen Days of month')
+// }else{
+//     alert('Last Days Of month')
+// }
+
+
 // Q no 06 
 
-// Q no 07   
+// var currentDate = new Date();
+
+// var date = currentDate.getTime();
+
+// var minute = Math.floor(date / (1000  * 60) );
+
+// document.write(`Minutes since 1970 is : ${minute} <br> Mili-seconds since 1970 is : ${date} `)   
+
+// Q no 07 
+
+// Q no 08 
