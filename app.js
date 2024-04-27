@@ -301,7 +301,7 @@
 // alert('Its Funday')
 // }
 
-// Q no 05 
+// Q no 05 ////////////////////////////////////////
 
 // var date = new Date().getDate();
 
@@ -312,7 +312,7 @@
 // }
 
 
-// Q no 06 
+// Q no 06 ////////////////////////////
 
 // var currentDate = new Date();
 
