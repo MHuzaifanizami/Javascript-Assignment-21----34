@@ -1,7 +1,7 @@
 
-// chapter 21 to 34 
+// chapter 21 to 34  /////////////////////////////////////////////////////////
 
-// Q no 01 
+// Q no 01  ///////////////////////////////////////////////////////////////
 
 // var firstName = prompt('Enter your first Name');
 // var lastName = prompt('Enter your last Name');
@@ -286,13 +286,13 @@
 // document.write(months[date.getMonth()]);
 
 
-// Q no 03 
+// Q no 03 ////////////////////////////////
 
 // var date = new Date();
 // date = date.toString().slice(0,3);
 // console.log(date);
 
-// Q no 04 
+// Q no 04  //////////////////////////////////
 
 // var date = new Date().getDay()
 //  ;
