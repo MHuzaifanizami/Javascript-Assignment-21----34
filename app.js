@@ -12,7 +12,7 @@
 
 
 
-// Q no 02 
+// Q no 02  ////////////////////////////////////
 
 // var usermobile = prompt('Enter your mobile model') ;
 // var userLength = usermobile.length
@@ -21,7 +21,7 @@
 
 
 
-// Q no 03 
+// Q no 03 ///////////////////////////////////////
 
 // var str = 'Pakistan';
 // var strIndex = str.indexOf('n');
@@ -29,7 +29,7 @@
 // document.write(`String : ${str} <br> Index of ' n' is : ${strIndex} `);
 
 
-// Q no 04 
+// Q no 04    /////////////////////////////////////////////////
 
 // var str = 'Hello World';
 // var strIndex = str.lastIndexOf('l');
@@ -37,7 +37,7 @@
 // document.write(`String : ${str} <br> Last Index of ' l ' is : ${strIndex} `);
 
 
-// Q no 05  
+// Q no 05   ////////////////////////////////////////////////////
 
 // var str = 'Pakistan';
 // var index3 = str[3];
@@ -46,7 +46,7 @@
 
 
 
-// Q no 06 
+// Q no 06     ////////////////////////////////////////////////
 
 // var firstName = prompt('Enter your first Name');
 // var lastName = prompt('Enter your last Name');
@@ -56,20 +56,20 @@
 
 
 
-// Q no 07 
+// Q no 07       ////////////////////////////////////////////////
 
 // var city = 'Hyderabad' ; 
 // var repl = city.replace('Hyder' , 'Islam');
 // document.write(`City : ${city} <br> After Replace : ${repl}`);
 
 
-// Q no 08 
-
+// Q no 08  //////////////////////////////////
+ 
 // var message = "Ali and Sami are best friends. They play cricket and football together" ; 
 // var repl = message.replaceAll('and' , '&');
 //  document.write(`Message : ${message} <br> After Replace : ${repl}`);
 
-// Q no 09 
+// Q no 09             //////////////////////////////////
 
 // var str = '520';
 
