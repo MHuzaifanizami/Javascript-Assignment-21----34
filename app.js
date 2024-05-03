@@ -86,7 +86,7 @@
 // document.write(`Type : ${type2} <br>`)
 
 
-// Q no 10  
+// Q no 10   //////////////////////////////////////////////
 
 // var userinp = prompt('Enter Your City');
 // document.write("Userinput : "+ userinp + '<br>') ;
