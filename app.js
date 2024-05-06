@@ -95,7 +95,7 @@
 // document.write( "Upper Case : "+ uppercase) ;
 
 
-// Q no 11 
+// Q no 11  /////////////////////////////////
 
 
 // var userinp = prompt('Enter Your City');
